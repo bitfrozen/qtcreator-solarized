@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<style-scheme version="1.0" name="Curonian Solarized (light)">
+<style-scheme version="1.0" name="Solarized (light)">
   <style name="Text" foreground="#657b83" background="#fdf6e3"/>
   <style name="Link" foreground="#6c71c4"/>
   <style name="Selection" foreground="#eee8d5" background="#93a1a1"/>
